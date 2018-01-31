@@ -1,0 +1,14 @@
+{
+  "name": "node-addon-example",
+  "version": "0.0.0",
+  "description": "NodeAddonExample",
+  "main": "app.js",
+  "author": {
+    "name": "lfern"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^2.5.1"
+  }
+}
